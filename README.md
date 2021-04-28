@@ -1,12 +1,13 @@
 # TeamSpark-L3Detection
-George Mason University: DAEN Capstone project Spring 2021
+**George Mason University: ** DAEN Capstone project Spring 2021
 
-Code for Paper: L3 Slice Automated Detection Algorithm Improvement
+**Code for Paper: ** L3 Slice Automated Detection Algorithm Improvement
 Authors: Kayla Janos, Nizar Ajhar, Preethi Simha Akula, Reem Alhammad. 
 Faculty Advisor: Dr. Issac Gang   
 Project Sponsors: Allwyn
 
-**Set Up Notes**
+**Set Up Notes**. 
+
 Please note that this project and the code within were established and tested in Google Colab. Users who wish to use this code, should establish a Google Drive location the contents of this project (keeping the folder structure). In addition to the files and folders located within this repository, users should create the following two empty directories on Google Drive in the same drive: 
 - Data 
 - NII_Data 
